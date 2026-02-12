@@ -1,0 +1,2 @@
+player = "shawal"
+print(player)
